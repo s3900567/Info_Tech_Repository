@@ -1,0 +1,6 @@
+HTML Code for website
+
+<!DOCTYPE html>
+<html>
+
+<h1>My Profile</h1>
